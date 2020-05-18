@@ -2,6 +2,5 @@
 add func1
 add func2
 add func3
-add func4
 add func5
 add func6
